@@ -2,7 +2,7 @@
 
 Repository created: December 1st 2025, ~10pm
 
-Repository for my songs.
+Repository for my songs. Also contains some art.
 
 ## Current order of when songs were started and finished (not all of the days in that range were spent working on them):
 - BYTE COORDINATOR (May 29th 2025 - May 30th 2025)
