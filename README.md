@@ -8,3 +8,5 @@ Repository for my songs. Also contains some art.
 - BYTE COORDINATOR (May 29th 2025 - May 30th 2025)
 - carbonous (June 30th 2025 - July 19th 2025)
 - S1 (September 16th 2025 - November 15th 2025)
+
+colorednodes picture added 14th January 2026, ~11:30-ish pm
